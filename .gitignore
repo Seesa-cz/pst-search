@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Project runtime files
+server.log
+server.log.*
+server.pid
+data/
+eml-index/
+
+# Config with personal paths (use config.yaml.template)
+config.yaml
+
+# PST and email data
+pst/
+eml/
+*.pst
+*.eml
+
+# uv
+.python-version

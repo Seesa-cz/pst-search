@@ -1,0 +1,7 @@
+pst_dir:  ~/path/to/pst/files
+eml_dir:  ~/path/to/extracted/eml
+data_dir: ~/path/to/index
+port:     8766
+model:    sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+log_level: WARNING
+idle_timeout: 0
