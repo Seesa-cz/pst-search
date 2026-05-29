@@ -2,6 +2,10 @@
 name = "pst-search"
 version = "0.1.0"
 requires-python = ">=3.11"
+authors = [
+    { name = "Seesa-cz", url = "https://github.com/Seesa-cz" },
+    { name = "Claude (Anthropic)", url = "https://claude.ai" },
+]
 dependencies = [
     "mcp>=1.0",
     "fastembed>=0.4",

@@ -168,6 +168,11 @@ Available multilingual models (via [fastembed](https://github.com/qdrant/fastemb
 | `sentence-transformers/paraphrase-multilingual-mpnet-base-v2` | 1.0 GB | Higher quality, slower |
 | `intfloat/multilingual-e5-large` | 2.24 GB | Best quality, requires more RAM |
 
+## Contributors
+
+- [Seesa-cz](https://github.com/Seesa-cz)
+- [Claude](https://claude.ai) (Anthropic AI)
+
 ## License
 
 MIT
